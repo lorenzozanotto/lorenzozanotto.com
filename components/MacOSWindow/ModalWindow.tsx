@@ -19,9 +19,10 @@ function ModalWindow(props: Props) {
                     />
                     <div className="m-2">
                         <h2 className="font-bold">Hello there, I'm Lorenzo 👋</h2>
-                        <p className="text-[14px]">I'm an <span className="bg-yellow-100">engieer and multidisciplinary designer</span> based in the green hills of Italy.</p>
+                        <p className="mt-2 text-[14px]">I'm an <span className="bg-yellow-100">engineering manager and multidisciplinary designer</span> based between the city of Milan and Abruzzo hills 🇮🇹</p>
                         <p className="mt-2 text-[14px]">I love to take the leadership of small to mid-sized engineering teams to promote the best practices in software design and see truly unbelievable products come into life.</p>
-                        <p className="mt-2 text-[14px]">Currently I'm directing the app and cloud team at Neato Robotics, while on evenings I'm curating Engineering Dispatched, a journalthat covers the daily topics required to be an engineering manager</p>
+                        <p className="mt-2 text-[14px]">Currently I'm directing the app and cloud team at <a className="underline text-blue-700" href="https://neatorobotics.com">Neato Robotics</a>, while on evenings I'm curating <a className="underline text-blue-700" href="https://engdispatched.substack.com">Engineering Dispatched</a>, a journal that covers the daily topics required to be an engineering manager. <span className="text-[8px] bg-gray-600 text-white py-[4px] px-[8px] rounded-[10px]">Scroll to read more</span></p>
+                        <p className="mt-2 text-[14px]">My journey started building indie mobile applications, with some of them reaching hundreads of thousands of users.</p>
                     </div>
                 </div>
             </div>
