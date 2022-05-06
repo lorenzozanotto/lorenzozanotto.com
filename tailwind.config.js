@@ -4,7 +4,14 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'dark-gray': '#282725'
+      },
+      fontFamily: {
+        mono: ['Fira Code', 'monospace']
+      },
+    },
   },
   plugins: [],
 }
