@@ -3,7 +3,7 @@ import NotificationBar from "./NotificationBar";
 
 function MainWindow() {
     return ( 
-        <div className="flex flex-col h-full p-3">
+        <div className="flex flex-col h-full px-8 py-5">
             <NotificationBar />
             <Desktop />
         </div>
