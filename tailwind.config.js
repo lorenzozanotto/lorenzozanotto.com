@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'dark-gray': '#282725'
+        'dark-gray': '#282725',
+        'desktop-background': '#C4C4C4'
       },
       fontFamily: {
         mono: ['Fira Code', 'monospace']
