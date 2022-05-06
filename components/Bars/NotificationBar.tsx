@@ -14,7 +14,7 @@ function NotificationBar() {
 
     return ( 
         <div className="bg-white rounded-t-main-window-radius flex justify-between font-mono font-bold px-[12px]">
-            <div>
+            <div className="hidden md:inline">
                 <LogoButton />
                 <MenuItem title="About" link="#" />
                 <MenuItem title="Work" link="#" />

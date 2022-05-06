@@ -13,7 +13,7 @@ function WindowHandle(props: Props) {
                     <RetroStrokes lines={6} />
                 </div>
             </div>
-            <p className="flex-1 text-center font-mono font-bold text-sm mt-[2px]">This is a window</p>
+            <p className="flex-1 text-center font-mono font-bold text-sm mt-[2px]">This a window</p>
             <div className="mt-[6px] mr-[6px] flex-1">
                 <RetroStrokes lines={6} />
             </div>
