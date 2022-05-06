@@ -13,7 +13,7 @@ function NotificationBar() {
     }, [time])
 
     return ( 
-        <div className="bg-white rounded-t-[12px] flex justify-between font-mono font-bold px-[12px]">
+        <div className="bg-white rounded-t-main-window-radius flex justify-between font-mono font-bold px-[12px]">
             <div>
                 <LogoButton />
                 <MenuItem title="About" link="#" />
