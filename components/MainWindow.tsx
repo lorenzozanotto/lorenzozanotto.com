@@ -1,5 +1,5 @@
 import Desktop from "./Desktop";
-import NotificationBar from "./NotificationBar";
+import NotificationBar from "./Bars/NotificationBar";
 
 function MainWindow() {
     return ( 
