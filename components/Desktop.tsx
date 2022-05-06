@@ -1,3 +1,5 @@
+import { useEffect, useRef, useState } from "react";
+import { DraggableBounds } from "react-draggable";
 import ModalWindow from "./MacOSWindow/ModalWindow";
 
 function Desktop() {

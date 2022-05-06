@@ -11,6 +11,7 @@ module.exports = {
         'macos-window-canvas': '#CECECE'
       },
       fontFamily: {
+        sans: ['Verdana', 'sans-serif'],
         mono: ['Fira Code', 'monospace']
       },
       boxShadow: {
